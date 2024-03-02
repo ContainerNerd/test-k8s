@@ -1,1 +1,1 @@
-# guide to lern k8s
+# guide to learn k8s
